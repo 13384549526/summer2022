@@ -1,4 +1,4 @@
-## RT-Thread夏令营DAY2
+# RT-Thread夏令营Day2 多线程 定时器
 
 ### 多线程
 

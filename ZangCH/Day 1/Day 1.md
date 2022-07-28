@@ -1,4 +1,4 @@
-## RT-Thread夏令营DAY1
+# RT-Thread夏令营Day1 程序下载 Git使用
 
 ### 使用开发板
 
